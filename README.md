@@ -1,11 +1,43 @@
+# Public User Apps
+
+A repository for distributing Android applications via APK files.
+
+## 🎮 Available Applications
+
+| App Name | File | Size |
+|----------|------|------|
+| Lao Lottery | lao-lottery-release.apk | ~88 MB |
+| Music App | music-app.apk | ~61 MB |
+
+---
+
+## ✅ Requirements
+
+- Android 5.0 (API 21) or higher
+- Sufficient storage space (100+ MB recommended)
+- Allow installations from unknown sources
+
+---
+
+## 📦 About This Repository
+
+This repository uses **Git Large File Storage (LFS)** for managing large APK files. If cloning, ensure Git LFS is installed:
+
+```bash
+git lfs install
+git clone https://github.com/suryakantarora/public-user-apps.git
+```
+
+---
+
 # Installation Guide (Android)
 
 Follow these steps to install an APK downloaded from this repository.
 
 ## 📥 Step 1: Download the APK
 
-1. Open the **Releases** section of this repository.
-2. Download the latest `.apk` file to your Android device.
+1. Download the APK file directly from the repository
+2. Or navigate to the **Releases** section for official builds
 
 ---
 
